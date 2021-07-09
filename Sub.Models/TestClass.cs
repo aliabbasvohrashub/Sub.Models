@@ -12,5 +12,6 @@ namespace Sub.Models
         public string Continent { get; set; }
         public decimal Latitude { get; set; }
         public decimal Longitude { get; set; }
+        public string AnotherName { get; set; }
     }
 }
